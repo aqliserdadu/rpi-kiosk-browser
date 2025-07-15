@@ -5,7 +5,7 @@ ____
 
 
 ### Cara Install
-Clone repo atau download skrip
+Clone repo
 ```bash
 git clone https://github.com/aqliserdadu/rpi-kiosk-browser.git
 cd rpi-kiosk-browser
